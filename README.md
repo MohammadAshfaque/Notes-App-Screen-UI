@@ -1,5 +1,9 @@
 # Notes App
 
+
+## Short demo video link
+https://youtube.com/shorts/uz6EGuNVMBw?feature=share
+
 ## Components Used
 - FlatList
 - TextInput
@@ -21,3 +25,4 @@
 - Minimal clean UI with proper typography and spacing
 - Edit and Delete buttons on each note card
 - Character count in editor
+
